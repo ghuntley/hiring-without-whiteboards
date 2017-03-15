@@ -1,7 +1,5 @@
 # Hiring without whiteboards
-A listing of companies (or teams within companies) that don't do typical, CS based "whiteboard" (physical or otherwise) interviews. Sites like [HackerRank](https://www.hackerrank.com/) _probably_ fall into that category (and won't be accepted). The companies and teams listed here instead use interview techniques and questions that resemble day-to-day work – for example pairing on a real world problem, or a paid/unpaid takehome exercise.
-
-Please open a PR to be added.
+A listing of companies (or teams within companies) that don't do typical, CS based whiteboard interviews. Open a PR to be added.
 
 ### Format
 
@@ -17,6 +15,7 @@ Please open a PR to be added.
 
 ## D - F
 - [Drawbotics](https://www.drawbotics.com/en/join-us/) | Brussels, Belgium | Take-home project, bootcamp on-site
+- [drchrono](https://www.drchrono.com/careers/) | Mountain View, CA | Hackerrank test & on-site project
 - [DroneDeploy](https://www.dronedeploy.com/careers.html) | San Francisco, CA | Pair program on a problem similar to daily work
 - [Etix Everywhere](https://www.etixeverywhere.com/en/job-offers/) | Luxembourg
 - [Fitbot](https://thefitbot.com/careers.html) | Boulder, CO | Pairing & writing code with the founders for a few hours
@@ -39,6 +38,7 @@ Please open a PR to be added.
 ## P - R
 - [Popstand](http://www.popstand.com) | Los Angeles, CA | Build MVPs for startups
 - [Paessler AG](https://www.paessler.com/company/career/jobs) | Nuremberg, Germany | Pairing with different engineers on a real problem
+- [Readify](https://join.readify.net/?source=StaffReferral&campaign=geoffrey.huntley) | Sydney/Brisbane/Melbourne/Perth, Australia | Apply to by solving our REST API puzzle at your own leisure, passing this tells us that you can solve a difficult technical problem. Pass this and one of our consultants will automatically reach out to setup an interview. Readify's roles, skills, expectations, behaviours and promotion guidelines are documented in a [public GitHub repository](https://github.com/Readify/madskillz). _Pro-tip: read the pull-requests!_
 
 ## S - U
 - [Slack](https://slack.com/jobs) | San Francisco, CA
